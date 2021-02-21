@@ -1,3 +1,17 @@
-﻿{
-	"name": "Unity.HephaestusCore.Editor"
+{
+    "name": "Unity.HephaestusCore.Editor",
+    "references": [
+        "GUID:5b7e76d1f63f44956b5390823e52dd47"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.0.4] - 2021-02-18
+- Added Addressables package deependency.
+
 ## [0.0.3] - 2021-02-18
 - Added Zenject as external addon.
 
