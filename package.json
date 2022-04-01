@@ -1,6 +1,6 @@
 {
   "name": "com.wtfgames.hephaestus.core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "displayName": "Hephaestus Core",
   "description": "Hephaestus Core is a framework to solve the common isues for the each mobile game.",
   "unity": "2019.4",
