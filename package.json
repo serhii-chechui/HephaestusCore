@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "displayName": "Hephaestus Core",
   "description": "Hephaestus Core is a framework to solve the common isues for the each mobile game.",
-  "unity": "2019.2",
+  "unity": "2019.4",
   "keywords": [
     "unity",
     "mobile",
@@ -18,3 +18,4 @@
     "com.unity.addressables": "1.16.16"
   }
 }
+        
