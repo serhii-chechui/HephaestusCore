@@ -1,12 +1,10 @@
 {
-    "name": "wtfgames.hephaestus.core.editor",
+    "name": "com.wtfgames.hephaestus.core",
     "rootNamespace": "",
     "references": [
-        "GUID:5b7e76d1f63f44956b5390823e52dd47"
+        "Zenject"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

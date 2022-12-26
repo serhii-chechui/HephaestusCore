@@ -1,10 +1,12 @@
 {
-    "name": "wtfgames.hephaestus.core",
+    "name": "com.wtfgames.hephaestus.core.editor",
     "rootNamespace": "",
     "references": [
-        "wtfgames.hephaestus.core"
+        "GUID:5b7e76d1f63f44956b5390823e52dd47"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
