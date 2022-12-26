@@ -17,5 +17,10 @@
   "dependencies": {
     "com.unity.addressables": "1.16.16",
     "com.svermeulen.extenject": "9.2.0-stcf3"
+  },
+  "publishConfig": {
+    "registry": "http://18.197.210.148:4873/"
   }
 }
+
+        
