@@ -1,0 +1,16 @@
+{
+    "name": "wtfgames.hephaestus.core",
+    "rootNamespace": "",
+    "references": [
+        "wtfgames.hephaestus.core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
